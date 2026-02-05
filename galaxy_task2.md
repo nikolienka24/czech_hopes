@@ -15,11 +15,11 @@ Histories -> Public histories -> czech hopes 2026 (https://usegalaxy.eu/u/xpolak
 - **Tool** : BWA-MEM2
 - **Parametre nastavte nasledovne**
     -  referenčný genóm
-    ![alt text](image-4.png)   
+    ![alt text](screen1.png)   
     - pacientské dáta
-    ![alt text](image-5.png)
+    ![alt text](screen2.png)
     - iné nstavenia
-    ![alt text](image-6.png)
+    ![alt text](screen3.png)
     - **OSTATNÉ NEMEŇTE!!!**
 
 ### Hľadanie mutácie
