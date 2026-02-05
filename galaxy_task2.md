@@ -24,5 +24,5 @@ Histories -> Public histories -> czech hopes 2026 (https://usegalaxy.eu/u/xpolak
 
 ### Hľadanie mutácie
 1. V histórii kliknite na `View (symbol oka)` po tom čo mapping skončí.
-2. V genómovom prehliadači chodťe na chromozóm 11 na pozíciu `chr11:5225464-5225726`.
+2. V genómovom prehliadači chodťe na chromozóm 11 na pozíciu `chr11:5217179-5234011`.
 3. Nájdite pozíciu mutácie.
